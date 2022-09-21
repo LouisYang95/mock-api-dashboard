@@ -2,7 +2,19 @@
     "users": [
         {
             "id": 1,
-            "username": "Test",
+            "username": "Massi",
+            "money": 1000,
+            "factories": []
+        },
+        {
+            "id": 2,
+            "username": "Adrien",
+            "money": 1000,
+            "factories": []
+        },
+        {
+            "id": 3,
+            "username": "Pd",
             "money": 1000,
             "factories": []
         }
@@ -26,8 +38,28 @@
     "products": [
         {
             "id": 1,
-            "name": "",
-            "descriptions": "",
+            "name": "Ananas",
+            "descriptions": "loremaekabeabeakh",
+            "variants": [{
+                "color": "?"
+            }],
+            "price": 10,
+            "stock": 10
+        },
+        {
+            "id": 2,
+            "name": "Pomme",
+            "descriptions": "elajbflkabVKZBFLJBVQBJVHBLVJJBHVHJBLVLHDJ",
+            "variants": [{
+                "color": "?"
+            }],
+            "price": 10,
+            "stock": 10
+        },
+        {
+            "id": 3,
+            "name": "Caca",
+            "descriptions": "Anus fetal ",
             "variants": [{
                 "color": "?"
             }],
