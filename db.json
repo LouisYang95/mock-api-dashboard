@@ -37,18 +37,6 @@
   ],
   "products": [
     {
-      "id": 1,
-      "name": "Ananas",
-      "descriptions": "loremaekabeabeakh",
-      "variants": [
-        {
-          "color": "?"
-        }
-      ],
-      "price": 10,
-      "stock": 10
-    },
-    {
       "id": 2,
       "name": "Pomme",
       "descriptions": "elajbflkabVKZBFLJBVQBJVHBLVJJBHVHJBLVLHDJ",
@@ -61,28 +49,25 @@
       "stock": 10
     },
     {
-      "id": 3,
-      "name": "Caca",
-      "descriptions": "Anus fetal ",
-      "variants": [
-        {
-          "color": "?"
-        }
-      ],
-      "price": 10,
-      "stock": 10
-    },
-    {
-      "name": "&é\"",
-      "description": "&é\"",
-      "price": "&é\"",
-      "id": 4
-    },
-    {
-      "name": "&é\"",
-      "description": "\"&é",
-      "price": "&é\"",
+      "name": "Oui",
+      "description": "Honnn",
+      "price": "12",
+      "stock": "14",
       "id": 5
+    },
+    {
+      "name": "Adrien",
+      "description": "Pas cher",
+      "price": "1",
+      "stock": "1",
+      "id": 6
+    },
+    {
+      "name": "Louis Y",
+      "description": "pas cher",
+      "price": "1",
+      "stock": "100",
+      "id": 7
     }
   ],
   "orders": [
